@@ -1,0 +1,116 @@
+
+#photo{
+    width: 318px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.hero{
+    width: 100%;
+    height: 80vh;
+    background-color: #253237;
+}
+/*
+#mainframe{
+	margin: auto
+}*/
+
+.headname{
+
+	font-family: 'DatalegreyaDot';
+   	font-weight: normal;
+   	font-style: normal;
+}
+#skillid{
+    font-family: 'Cinzel', serif;
+    font-family: 'Staatliches', cursive;
+	
+}
+#service{
+    font-family: 'Cinzel', serif;
+    font-family: 'Staatliches', cursive;
+}
+
+.name{
+    font-size: 68px;
+    font-family: 'BeonRegular';
+   font-weight: normal;
+   font-style: normal;
+}
+
+.service_one{
+	background-color:#2d3142; 
+}
+
+
+.quotes{
+    font-size: 20px;
+    font-family: 'Cinzel', serif;
+    font-style: text-white;
+}
+/*
+.slide{
+height: 260px;
+width: 80px;
+margin: 1px;
+}*/
+.textcenter{
+margin-left: 10px;
+margin-right: 10px;
+}
+.about{
+    font-family: 'Playfair Display', serif;
+font-size: 18px;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  .fa:hover {
+  opacity: 0.7;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+  }
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  .contact{
+    background-color:#2d3142;
+  }
+
+ .tr_total{
+     padding-left: 50%;
+     
+
+ }
+ .td{
+     margin-left: auto;
+     margin-right: auto;
+ }
+ .social{
+    background-color:#2d3142;
+ }
